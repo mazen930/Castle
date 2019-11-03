@@ -1,0 +1,22 @@
+KTS	S	FD	KD	LT
+26	7	0	24	24
+26	3	0	25	25
+26	4	0	25	25
+27	8	0	25	25
+32	5	0	31	31
+38	11	0	34	34
+39	1	0	38	38
+40	13	0	34	34
+41	12	0	36	36
+42	10	24	15	39
+44	2	0	43	43
+69	6	0	68	68
+69	9	0	67	67
+T1_Total_Damage	T2_Total_Damage	T3_Total_Damage	T4_Total_Damage
+2.186343	2.429266	5.228029	1.316511	
+R1_Unpaved_Dist	R2_Unpaved_Dist	R3_Unpaved_Dist	R4_Unpaved_Dist	
+30		13		30		30		
+Game is Win
+Total Enemies = 13
+Average First-Shot Delay = 1.846154
+Average Kill Delay = 35.769231

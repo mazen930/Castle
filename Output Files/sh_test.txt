@@ -1,0 +1,11 @@
+KTS	S	FD	KD	LT
+T1_Total_Damage	T2_Total_Damage	T3_Total_Damage	T4_Total_Damage
+100.000000	100.000000	100.000000	100.000000	
+R1_Unpaved_Dist	R2_Unpaved_Dist	R3_Unpaved_Dist	R4_Unpaved_Dist	
+30		30		30		30		
+Game is Loss
+Killed Enemies = 0
+Active Enemies = 4
+Inactive Enemies = 1
+Average First-Shot Delay = 0.000000
+Average Kill Delay = 0.000000
